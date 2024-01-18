@@ -1,0 +1,9 @@
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\bin\Debug\thinger.ModbusProjet.exe.config
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\bin\Debug\thinger.ModbusProjet.exe
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\bin\Debug\thinger.ModbusProjet.pdb
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\obj\Debug\thinger.ModbusProjet.csproj.AssemblyReference.cache
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\obj\Debug\thinger.ModbusProjet.Properties.Resources.resources
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\obj\Debug\thinger.ModbusProjet.csproj.GenerateResource.cache
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\obj\Debug\thinger.ModbusProjet.csproj.CoreCompileInputs.cache
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\obj\Debug\thinger.ModbusProjet.exe
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusProjet\obj\Debug\thinger.ModbusProjet.pdb

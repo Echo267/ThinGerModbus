@@ -1,0 +1,6 @@
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusRTULib\bin\Debug\thinger.ModbusRTULib.dll
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusRTULib\bin\Debug\thinger.ModbusRTULib.pdb
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusRTULib\obj\Debug\thinger.ModbusRTULib.csproj.AssemblyReference.cache
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusRTULib\obj\Debug\thinger.ModbusRTULib.csproj.CoreCompileInputs.cache
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusRTULib\obj\Debug\thinger.ModbusRTULib.dll
+D:\Gitee仓库\WPF新阁上位机\WPFUpper-computer\Modbus通信协议\代码\thinger.ModbusProjet\thinger.ModbusRTULib\obj\Debug\thinger.ModbusRTULib.pdb
